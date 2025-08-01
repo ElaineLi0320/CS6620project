@@ -1,4 +1,4 @@
-# Financial Risk Prediction Project
+# Financial Risk Prediction
 
 This project was developed to predict firms' financial risk levels using machine learning models.
 
